@@ -1,0 +1,1 @@
+# nnotych-Laboratory-work-7-Miller-Rabin-simplicity-test.-RSA-algorithm
